@@ -1,2 +1,2 @@
 print("sk-ii")
-print("sk-ii")
+prin("sk-ii")
